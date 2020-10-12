@@ -88,7 +88,7 @@ def adding_matz
    yukihiro_matsumoto = {languagese: "LISP" }
    
    
-   [programmer_hash] = yukihiro_matsumoto 
+   programmer_hash = yukihiro_matsumoto 
   
   
 end

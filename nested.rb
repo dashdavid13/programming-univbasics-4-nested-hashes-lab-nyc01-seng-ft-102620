@@ -118,6 +118,8 @@ def changing_alan
       }
     }
 
+programmer_hash][:al]
+
 end
 
 def adding_to_dennis

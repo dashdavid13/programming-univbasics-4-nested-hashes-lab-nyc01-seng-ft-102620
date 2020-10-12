@@ -89,6 +89,8 @@ def adding_matz
    :known_for => "Ruby",
    :languages => "LISP"
  }
+ }
+
 
 programmer_hash.merge(another_hash)
    

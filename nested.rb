@@ -118,7 +118,7 @@ def changing_alan
       }
     }
 
-programmer_hash][:al]
+programmer_hash[:alan_kay][:known_for] = "GUI"
 
 end
 

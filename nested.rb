@@ -145,7 +145,7 @@ def adding_to_dennis
 
 
 
-another_hash = {:languages => ["C","Assembly"]}
+another_hash = {:languages => "C","Assembly"}
 
 
 programmer_hash[:dennis_ritchie].merge(another_hash)

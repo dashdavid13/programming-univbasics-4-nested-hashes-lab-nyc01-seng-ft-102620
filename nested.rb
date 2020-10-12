@@ -118,7 +118,8 @@ def changing_alan
       }
     }
 
-[:alan_kay][:known_for] = "GUI"
+programmer_hash[:alan_kay][:known_for] = "GUI"
+programmer_hash
 
 end
 

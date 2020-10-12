@@ -143,7 +143,6 @@ def adding_to_dennis
       }
     }
 
-programmer_hash[:languages] = "Assembly"
 
 
 another_hash = {:languages => ["C","Assembly"]}
